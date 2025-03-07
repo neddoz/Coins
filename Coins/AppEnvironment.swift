@@ -18,7 +18,7 @@ public enum AppEnvironment {
         return dict
     }()
     static let coinApIKey = {
-        guard let apiKeyString = infoDictionary[Keys.CoinApiKey] as? String else {
+        guard let apiKeyString = infoDictionary[Keys.CoinApiKey] as? String, !apiKeyString.isEmpty else {
             fatalError("api key not found in plist file")
         }
         return apiKeyString
