@@ -1,0 +1,101 @@
+{
+    "status": "success",
+    "data": {
+        "coin": {
+            "uuid": "-l8Mn2pVlRs-p",
+            "symbol": "XRP",
+            "name": "XRP",
+            "description": "XRP is a digital currency and payment network created to provide fast, low-cost international transactions with end-to-end visibility.",
+            "color": "#000000",
+            "iconUrl": "https://cdn.coinranking.com/B1oPuTyfX/xrp.svg",
+            "websiteUrl": "https://xrpl.org",
+            "links": [
+                {
+                    "name": "xrpl.org",
+                    "url": "https://xrpl.org",
+                    "type": "website"
+                },
+                {
+                    "name": "xrplf/rippled",
+                    "url": "https://github.com/xrplf/rippled",
+                    "type": "github"
+                },
+                {
+                    "name": "r/XRP",
+                    "url": "https://www.reddit.com/r/XRP/",
+                    "type": "reddit"
+                },
+                {
+                    "name": "@XRPLF",
+                    "url": "https://twitter.com/XRPLF",
+                    "type": "twitter"
+                },
+                {
+                    "name": "YouTube",
+                    "url": "https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg",
+                    "type": "youtube"
+                }
+            ],
+            "supply": {
+                "confirmed": true,
+                "supplyAt": 1741305758,
+                "max": "100000000000",
+                "total": "99986390660",
+                "circulating": "57949738512"
+            },
+            "numberOfMarkets": 315,
+            "numberOfExchanges": 80,
+            "24hVolume": "7283455874",
+            "marketCap": "145262275739",
+            "fullyDilutedMarketCap": "250669424002",
+            "price": "2.5066942400238434",
+            "btcPrice": "0.000028419500742592",
+            "priceAt": 1741325760,
+            "change": "-1.42",
+            "rank": 3,
+            "sparkline": [
+                "2.539136936482497",
+                "2.520428655486612",
+                "2.512547458881068",
+                "2.549350360244601",
+                "2.5714315308209934",
+                "2.617323690946502",
+                "2.6260018457836547",
+                "2.5944575805578647",
+                "2.6021874520988373",
+                "2.591461628505337",
+                "2.614337702884826",
+                "2.61860724964161",
+                "2.5670119438034087",
+                "2.5714101177707986",
+                "2.5777321013803594",
+                "2.602403264995301",
+                "2.6094988445528475",
+                "2.6046682313707548",
+                "2.6050050934876383",
+                "2.4997155224337395",
+                "2.4669250590714467",
+                "2.4890637895020666",
+                "2.4921506827501654",
+                "2.489526075584532"
+            ],
+            "allTimeHigh": {
+                "price": "3.390022929095228",
+                "timestamp": 1737046560
+            },
+            "coinrankingUrl": "https://coinranking.com/coin/-l8Mn2pVlRs-p+xrp-xrp",
+            "tier": 1,
+            "lowVolume": false,
+            "listedAt": 1421798400,
+            "hasContent": true,
+            "notices": null,
+            "contractAddresses": [],
+            "tags": [
+                "layer-1",
+                "altcoin",
+                "halal",
+                "us"
+            ]
+        }
+    }
+}
